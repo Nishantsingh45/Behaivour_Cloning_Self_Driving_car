@@ -13,10 +13,13 @@ we have used just only centre camera images for more simplicity.
  
  ## Model
  The model was based on [Nvidia Paper](https://arxiv.org/abs/1604.07316). 
+ 
+ 
+ 
  ![image](https://user-images.githubusercontent.com/68099982/189867949-c3a5c937-cd06-40c7-af13-fdf1db0ea18d.png)
  
  
  
  ## Final Working :
  Overall the car was successfully able to simulate ,although the accuracy was not as good as it could have as we have less training data.
- 
+ Working demo can seen [here](https://youtu.be/v02acUNNKBM)
